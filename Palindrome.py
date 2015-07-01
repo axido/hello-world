@@ -9,7 +9,7 @@ while True:
     # Poistetaan yleisimmät välimerkit, muutetaan pienaakkosiksi vertailun helpottamiseksi.
     i = input("Anna palaa: ")
     k = re.sub(r'[,!:;.]|\s', '', i).lower()
-    if k == "exit":
+    if i == "exit":
         break
     if any(char.isdigit() for char in k) == True:  # Tarkistetaan onko mukana numeroita tai onko arvo tyhjä.
         print("Numerot eivät ole sallittuja.")
