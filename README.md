@@ -16,8 +16,8 @@ For detailed descriptions of the assignments, please look for the week and exerc
 
 #### Object-Oriented programming with Java, part II
 
-1. FooBar
-  * BazBorf
+1. Calculator (week 1, ex 3)
+  * A simple calculator.
 
 ### Other exercises
   * Palindrome.py 
