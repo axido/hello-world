@@ -1,5 +1,5 @@
 # hello-world
-This is where I collect the programming exercises I do.
+This is where I collect some of the programming exercises I do.
 
 
 ### MOOC.fi
