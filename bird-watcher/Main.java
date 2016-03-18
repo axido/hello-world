@@ -1,6 +1,11 @@
 
 import java.util.Scanner;
 
+/*
+ * Main class for the assignment.
+ *
+ */
+
 public class Main {  
 
     public static void main(String[] args) {
@@ -24,14 +29,6 @@ public class Main {
                 continue;
             }
         }
-        
-        //System.out.println(linnut.birds());
-    // implement your program here
-    // do not put all to one method/class but rather design a proper structure to your program
-        
-    // Your program should use only one Scanner object, i.e., it is allowed to call 
-    // new Scanner only once. If you need scanner in multiple places, you can pass it as parameter
-            
     }
 
 }
