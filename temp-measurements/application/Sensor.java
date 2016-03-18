@@ -1,4 +1,4 @@
-
+// Interface for the sensors.
 package application;
 
 public interface Sensor {
