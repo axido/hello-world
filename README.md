@@ -18,6 +18,8 @@ For detailed descriptions of the assignments, please look for the week and exerc
 
 1. Calculator (week 7, ex 3)
   * A simple calculator.
+2. Sensors and Temperature Measurement (week 9, ex 20)
+  * Learning about interfaces, packages and exceptions
 
 ### Other exercises
   * Palindrome.py 
