@@ -11,7 +11,7 @@ while True:
     k = re.sub(r'[,!:;.]|\s', '', i).lower()
     if i == "exit":
         break
-    if any(char.isdigit() for char in k) == True:  # Tarkistetaan onko mukana numeroita tai onko arvo tyhjä.
+    if any(char.isdigit() for char in k):  # Tarkistetaan onko mukana numeroita tai onko arvo tyhjä.
         print("Numerot eivät ole sallittuja.")
     elif not k or k == '':
         print("Et kirjoittanut mitään!")
