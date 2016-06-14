@@ -5,7 +5,7 @@ import java.util.*;
  
 /**
  * @author axido
- * 
+ * Exciting roguelike game where you try to bump into vampires.
  */
 public class Dungeon {
     private int length;
