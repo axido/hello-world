@@ -19,7 +19,13 @@ For detailed descriptions of the assignments, please look for the week and exerc
 1. Calculator (week 7, ex 3)
   * A simple calculator.
 2. Sensors and Temperature Measurement (week 9, ex 20)
-  * Learning about interfaces, packages and exceptions
+  * Learning about interfaces, packages and exceptions.
+3. Dungeon (week 10, ex 33)
+  * A little ascii game where you try to bump into vampires.
+4. Flexible Filtering Criteria (week 12, ex 47) 
+  * A program to filter lines of the books found on Project Gutenberg according to different criteria combinations.
+
+
 
 ### Other exercises
   * Palindrome.py 
